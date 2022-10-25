@@ -1,6 +1,6 @@
 # mvvm_app
 
-A new Flutter application.
+Modular architechture 
 
 ## Getting Started
 
