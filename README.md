@@ -1,4 +1,4 @@
-# mvvm_app
+# Clean architecture with Modular
 
 Modular architechture 
 
